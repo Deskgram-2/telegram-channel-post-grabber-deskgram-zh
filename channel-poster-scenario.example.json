@@ -1,0 +1,9 @@
+{
+  "source_channel": "@source_channel",
+  "target_channel": "@target_channel",
+  "clone_videos": true,
+  "clone_images": true,
+  "text_add_start": "Top caption",
+  "text_add_end": "Bottom caption",
+  "use_ai_rewrite": true
+}
